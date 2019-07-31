@@ -1,1 +1,3 @@
-# Business-Intelligence-and-Data-Mining---Final-Project
+# Business-Intelligence-and-Data-Mining-Final-Project
+
+This project applied several data mining methods learned in class.  Using a Customer Churn dataset for a mock Telecom company, my group used models such as Decision Trees, Naive Bayes and Support Vector Machines to identify the key predictors of attrition.  For the project we used WEKA and R to both build models as well as develop visualizations.  The final presentation to the class included recommending changes to customer engagement and price packaging to reduce churn.  The grade for the project was an A based on the content and final presentation which consisted of questions from the class and professor.
